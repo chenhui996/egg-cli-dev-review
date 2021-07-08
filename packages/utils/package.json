@@ -1,6 +1,6 @@
 {
   "name": "@egg-cli-review-dev/utils",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "egg-cli-review-dev utils",
   "author": "cain <chen562450669@qq.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "e65481d4100e253681253a9d3ca90e5abb179dca"
+  "gitHead": "4304492d56bc136a466c0e48ecb7e13840448019"
 }
