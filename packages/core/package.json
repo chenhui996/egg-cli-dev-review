@@ -1,6 +1,6 @@
 {
   "name": "@egg-cli-review-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "egg-cli-review-dev core",
   "author": "cain <chen562450669@qq.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@egg-cli-review-dev/utils": "^1.0.0"
+    "@egg-cli-review-dev/utils": "^1.0.1"
   }
 }
